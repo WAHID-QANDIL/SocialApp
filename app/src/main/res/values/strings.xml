@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SocialApp</string>
+    <string name="icon">icon</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="youtube">Youtube</string>
+    <string name="instgram">Instgram</string>
+    <string name="tiktok">TikTok</string>
+    <string name="twitter">Twitter</string>
+
+
+    <string name="facebook_url">https://www.facebook.com/</string>
+    <string name="google_url">https://www.google.com/</string>
+    <string name="instgram_url">www.instgram.com/</string>
+    <string name="youtube_url">https://www.youtube.com/</string>
+    <string name="tiktok_url">https://www.tiktok.com/</string>
+    <string name="twitter_url">https://www.twitter.com/</string>
+
+
+
+
+</resources>

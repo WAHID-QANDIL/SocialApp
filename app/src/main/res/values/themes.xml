@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SocialApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.SocialApp" parent="Base.Theme.SocialApp" >
+        <item name="statusBarBackground">@color/navy</item>
+        <item name="windowActionBar">true</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="colorPrimary">@color/navy</item>
+        <item name="titleTextColor">@color/beige</item>
+    </style>
+</resources>
